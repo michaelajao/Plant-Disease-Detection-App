@@ -1,0 +1,95 @@
+Abacaxi (Pineapple) - Broca (Pineapple Fruit Borer) 
+Abacaxi (Pineapple) - Fusariose (Fusariose) 
+Abacaxi (Pineapple) - Podridão (Black Rot) 
+Algodão (Cotton) - Fusariose (Fusarium Wilt)
+Algodão (Cotton) - Mancha de Mirotecio (Myrothecium leaf spot)
+Algodão (Cotton) - Mancha de Mirotecio (Myrothecium leaf spot) - Cropped
+Algodão (Cotton) - Mela (Soreshin)
+Algodão (Cotton) - Mela (Soreshin) - Cropped
+Algodão (Cotton) - Ramularia (Areolate Mildew)
+Algodão (Cotton) - Ramularia (Areolate Mildew) - Cropped
+Arroz (Rice) - Brusone (Rice Blast)
+'Arroz (Rice) - Brusone (Rice Blast) - Cropped
+Arroz (Rice) - Escaldadura (Leaf Scald)
+Arroz (Rice) - Escaldadura (Leaf Scald) - Cropped
+Café (Coffee) - BichoMineiro (Leaf Miner)
+Café (Coffee) - BichoMineiro (Leaf Miner) - Cropped
+Café (Coffee) - Cercospora-Ferrugem (Cercospora Leaf Spot and Rust) 
+Café (Coffee) - Cercosporiose (Cercospora Leaf Spot)
+Café (Coffee) - Cercosporiose (Cercospora Leaf Spot) - Cropped
+Café (Coffee) - Ferrugem (Rust)
+Café (Coffee) - Ferrugem (Rust) - Cropped
+Café (Coffee) - Mancha Aureolada (Bacterial Blight)
+Café (Coffee) - Mancha Aureolada (Bacterial Blight) - Cropped
+Café (Coffee) - Mancha Mantegosa (Blister Spot)
+Café (Coffee) - Mancha Mantegosa (Blister Spot) - Cropped
+Café (Coffee) - Phoma (Brown leaf spot)
+Café (Coffee) - Phoma (Brown leaf spot) - Cropped
+Café (Coffee) - QueimaFio (Pellicularia koleroga)
+Café (Coffee) - Rizoctoniose (Damping Off)
+Café (Coffee) - Saudavel (Healthy)
+Cajueiro (Cashew Tree) - Alga (Algae)
+Cajueiro (Cashew Tree) - Alga (Algae) - Cropped
+Cajueiro (Cashew Tree) - Antracnose (Anthracnose)
+Cajueiro (Cashew Tree) - Antracnose (Anthracnose)
+Cajueiro (Cashew Tree) - Antracnose (Anthracnose) - Cropped
+Cajueiro (Cashew Tree) - Larva (Worm) 
+Cajueiro (Cashew Tree) - Mancha Angular (Angular Leaf Spot) 
+Cajueiro (Cashew Tree) - Mancha Angular (Angular Leaf Spot) - Cropped
+Cajueiro (Cashew Tree) - Mofo Preto (Black Mould
+Cajueiro (Cashew Tree) - Mofo Preto (Black Mould) - Cropped
+Cajueiro (Cashew Tree) - Oidio (Powdery Mildew)
+Cajueiro (Cashew Tree) - Oidio (Powdery Mildew) - Cropped
+Cajueiro (Cashew Tree) - Resinose (Gummosis)
+Cajueiro (Cashew Tree) - Resinose (Gummosis) - Cropped
+Cajueiro (Cashew Tree) - Sclerotium (Seedling Blight)
+Cajueiro (Cashew Tree) - Seca dos Ponteiros
+Cana (Sugarcane) - Ferrugem (Rust)
+Cana (Sugarcane) - Ferrugem (Rust) - Cropped
+Cana (Sugarcane) - Mancha Anelar (Ring Spot)
+Cana (Sugarcane) - Mancha Anelar (Ring Spot) - Cropped
+Cana (Sugarcane) - Mancha Anelar e Mosca Branca (Ring Spot and White Fly)
+Cana (Sugarcane) - Podridao Vermelha (Red Stripe)
+Cana (Sugarcane) - Podridao Vermelha (Red Stripe) - Cropped
+Cana (Sugarcane) - Saudavel (Healthy)
+Citros (Citrus) - Alga (Algae)
+Citros (Citrus) - Alga (Algae) - Cropped
+Citros (Citrus) - Alternaria (Alternaria brown spot)
+Citros (Citrus) - Alternaria (Alternaria brown spot) - Cropped
+Citros (Citrus) - Cancro (Citrus canker)
+Citros (Citrus) - Cancro (Citrus canker) - Cropped
+Citros (Citrus) - Clorose (Citrus variegated chlorosis)
+Citros (Citrus) - Clorose (Citrus variegated chlorosis) - Cropped
+Citros (Citrus) - Deficiencia Nutricional (Nutritional Deficiency)
+Citros (Citrus) - Feltro (Felt)
+Citros (Citrus) - Fumagina (Sooty Mold)
+Citros (Citrus) - Fumagina (Sooty Mold) - Cropped
+Citros (Citrus) - Leprose (Leprosis) 
+Citros (Citrus) - Leprose (Leprosis) - Cropped
+Citros (Citrus) - Mancha Aureolada (Halo Blight) 
+Citros (Citrus) - Mancha Aureolada (Halo Blight) - Cropped
+Citros (Citrus) - Mancha Graxa (Citrus Greasy Spot)
+Citros (Citrus) - Mancha Graxa (Citrus Greasy Spot) - Cropped
+Citros (Citrus) - Mancha Preta (Black Spot)
+Citros (Citrus) - Mosaico (Mosaic)
+Citros (Citrus) - Mosaico (Mosaic) - Cropped
+Citros (Citrus) - Penicillium (Penicillium)
+Citros (Citrus) - Podridao Floral (Postbloom fruit drop of citrus)
+Citros (Citrus) - Queima Fio (White-Thread Blight)
+Citros (Citrus) - Sadia (Healthy)
+Citros (Citrus) - Verrugose (Scab)
+Citros (Citrus) - Verrugose (Scab) - Cropped
+Coqueiro (Coconut Tree) - Acaro Mancha Longitudinal (Steneotarsonemus furcatus)
+Coqueiro (Coconut Tree) - Acaro Necrose (Aceria guerreronis)
+Coqueiro (Coconut Tree) - Ataque Lagarta (Caterpillar damage)
+Coqueiro (Coconut Tree) - Cochonilha (Coconut scale)
+Coqueiro (Coconut Tree) - Cochonilha (Coconut scale) - Cropped
+Coqueiro (Coconut Tree) - Fitotoxidez (Phytotoxicity)
+Coqueiro (Coconut Tree) - Fitotoxidez (Phytotoxicity) - Cropped
+Coqueiro (Coconut Tree) - Fumagina (Sooty mold)
+Coqueiro (Coconut Tree) - Helmintosporiose (Dreschslera incurvata)
+Coqueiro (Coconut Tree) - Helmintosporiose (Dreschslera incurvata) - Cropped
+Coqueiro (Coconut Tree) - Lixa Grande (Lixa Grande)
+Coqueiro (Coconut Tree) - Lixa Grande (Lixa Grande) - Cropped
+Coqueiro (Coconut Tree) - Lixa Pequena (Lixa pequena) 
+Coqueiro (Coconut Tree) - Lixa grande e pequena (Lixa grande and lixa pequena)
