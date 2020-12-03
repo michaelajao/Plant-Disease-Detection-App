@@ -40,7 +40,7 @@ class _HomeState extends State<Home> {
 
   loadModel() async {
     await Tflite.loadModel(
-        model: "assets/plant_model.tflite", labels: "assets/labels.txt");
+        model: "assets/model(1).tflite", labels: "assets/labels(1).txt");
   }
 
   @override
