@@ -40,7 +40,8 @@ class _HomeState extends State<Home> {
 
   loadModel() async {
     await Tflite.loadModel(
-        model: "assets/model(1).tflite", labels: "assets/labels(1).txt");
+        model: "assets/lite_mobilenetv2_model.tflite",
+        labels: "assets/labels.txt");
   }
 
   @override
@@ -96,14 +97,14 @@ class _HomeState extends State<Home> {
             children: [
               SizedBox(height: 50),
               Text(
-                "Detect Plant Disease",
+                "Detect Plant and Disease",
                 style: TextStyle(
                     color: Colors.black,
                     fontWeight: FontWeight.w700,
                     fontSize: 28),
               ),
               Text(
-                "MobileNet V2",
+                "MobileNetV2 model",
                 style: TextStyle(
                     color: Colors.black87,
                     fontWeight: FontWeight.bold,
