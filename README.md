@@ -1,9 +1,9 @@
 # plant_detection
+## Plant Disease Detection, A Cross-Platform Mobile Application Using Artificial Neural Networks
 
-A new Flutter project.
+A mobile Application for detection of plant disease from images.
 
-## Getting Started
-
+(https://github.com/michaelajao/Plant-Disease-Detection-App/blob/main/assets/plant.png)
 
 
 This project is a starting point for a Flutter application.
