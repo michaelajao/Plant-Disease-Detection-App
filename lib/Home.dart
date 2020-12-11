@@ -46,7 +46,6 @@ class _HomeState extends State<Home> {
 
   @override
   void dispose() {
-    // TODO: implement dispose
     Tflite.close();
     super.dispose();
   }
